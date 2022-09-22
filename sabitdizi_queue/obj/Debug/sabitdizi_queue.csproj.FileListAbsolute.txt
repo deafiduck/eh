@@ -1,0 +1,8 @@
+C:\Users\zsser\Documents\GitHub\eh\sabitdizi_queue\bin\Debug\sabitdizi_queue.exe.config
+C:\Users\zsser\Documents\GitHub\eh\sabitdizi_queue\bin\Debug\sabitdizi_queue.exe
+C:\Users\zsser\Documents\GitHub\eh\sabitdizi_queue\bin\Debug\sabitdizi_queue.pdb
+C:\Users\zsser\Documents\GitHub\eh\sabitdizi_queue\obj\Debug\sabitdizi_queue.csproj.AssemblyReference.cache
+C:\Users\zsser\Documents\GitHub\eh\sabitdizi_queue\obj\Debug\sabitdizi_queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\zsser\Documents\GitHub\eh\sabitdizi_queue\obj\Debug\sabitdizi_queue.csproj.CoreCompileInputs.cache
+C:\Users\zsser\Documents\GitHub\eh\sabitdizi_queue\obj\Debug\sabitdizi_queue.exe
+C:\Users\zsser\Documents\GitHub\eh\sabitdizi_queue\obj\Debug\sabitdizi_queue.pdb

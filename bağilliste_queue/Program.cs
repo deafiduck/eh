@@ -10,18 +10,16 @@ namespace bağilliste_queue
     {
         static void Main(string[] args)
         {
-            var bliste = new bliste();
-            bliste.listele();
-            bliste.ekle("ö");
-            bliste.ekle("ö");
-            bliste.ekle("z");
-            bliste.ekle("e");
-            bliste.ekle("y");
-            bliste.listele();
-            bliste.sil();
-            bliste.listele();
-            bliste.ekle("d");
-            bliste.listele();
+            var liste = new liste();
+            liste.listele();
+            
+            liste.ekle("e");
+            liste.ekle("y");
+            liste.listele();
+            liste.sil();
+            liste.listele();
+            liste.ekle("d");
+            liste.listele();
         }
     }
 }
